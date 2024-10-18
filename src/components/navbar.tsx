@@ -20,7 +20,7 @@ const Navbar: React.FC<NavbarProps> = ({ toggleModal }) => {
         <div className="container mx-auto flex justify-between items-center">
           <div className="logo">
             <img
-              src="public/veritaslogo.jpg"
+              src="/veritaslogo.jpg"
               alt="veritas"
               className="max-w-[100px] max-h-[50px]"
             />
